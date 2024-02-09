@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>RWTH Aachen University</a>. Aachen, Germany. +49 163 9286717. Live your life to the fullest.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>+49 163 9286717</p>
     <p>Aachen, Germany</p>
-    <p>Raleigh, NC 27606</p>
+    <p>Raleigh, NC 27606, USA</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
