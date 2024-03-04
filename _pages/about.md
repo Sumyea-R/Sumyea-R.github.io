@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>RWTH Aachen University</a>. Aachen, Germany. +49 163 9286717. Live your life to the fullest.
+subtitle: <a href='#'>RWTH Aachen University</a>. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>+49 163 9286717</p>
     <p>Aachen, Germany</p>
-    <p>+1 984 (683) 3662<\p>
+    <p>+1 984 (683) 3662</p>
     <p>Raleigh, NC 27606, USA</p>
 
 news: false # includes a list of news items
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi everyone, I am Sumyea Rahman. I just completed my MSc from [RWTH Aachen University](https://www.rwth-aachen.de/). My Masters thesis is on Using Machine Learning on Process Mining. Here is a link to my [resume]().
+Hi everyone, I am Sumyea Rahman. I just completed my MSc from [RWTH Aachen University](https://www.rwth-aachen.de/). My Masters thesis is on using Machine Learning on Process Mining. Here is a link to my [resume](https://sumyea-r.github.io/assets/pdf/sumyea_resume.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
